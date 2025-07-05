@@ -1,0 +1,2 @@
+com.leo.jstages.plugins.item_stages.ItemStagesKJS
+com.leo.jstages.plugins.redimstages.DimensionStagesKJS
